@@ -8,6 +8,7 @@ public class addressbookExtended {
 
         // Task 8: Test the updateEmail method
         p1.update("eda1@gmail.com");
+        p1.print();
         
 
     }
